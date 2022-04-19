@@ -50,7 +50,7 @@ const menu = [
   {
     id: 7,
     title: 'Nyhavn',
-    category: 'denmark',
+    category: 'copenhagen',
     price: 1.8,
     img: './images/item-7.jpg',
     desc: `Colourful, captivating Nyhavn is one of Copenhagen's most iconic sights and one of the locals' favourite places to sink a cold beer on a hot day. `,
@@ -58,7 +58,7 @@ const menu = [
   {
     id: 8,
     title: 'SMK',
-    category: 'denmark',
+    category: 'copenhagen',
     price: 2.1,
     img: './images/item-8.jpg',
     desc: `This gallery houses the national collection of paintings.`,
